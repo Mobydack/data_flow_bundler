@@ -1,5 +1,4 @@
-mod config;
-mod resource;
+mod timestamp;
 
 pub fn add(left: usize, right: usize) -> usize {
     left + right
